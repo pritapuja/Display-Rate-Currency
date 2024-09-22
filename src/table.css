@@ -1,0 +1,26 @@
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f46c3c;
+  }
+  
+  .table {
+    width: 80%;
+    margin: auto;
+    background-color: #f46c3c;
+    
+  }
+  
+  .table th {
+    color: purple;
+  }
+  
+  .table td, .table th {
+    padding: 12px;
+    text-align: center;
+  }
+  
+  
+  

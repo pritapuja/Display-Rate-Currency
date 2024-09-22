@@ -1,0 +1,26 @@
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f46c3c;
+}
+
+.table {
+  width: 80%;
+  margin: auto;
+  background-color: #f46c3c;
+  color: #fbd6bd;
+}
+
+.table th {
+  color: white !important;
+}
+
+.table td,
+.table th {
+  padding: 20px;
+  text-align: center;
+  background-color: #f46c3c;
+  color: #fbd6bd;
+}
